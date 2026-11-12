@@ -1,0 +1,7 @@
+[project]
+name = "consent-and-privacy-datahub"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[project.scripts]
+consent-and-privacy-datahub = "consent_privacy.cli:main"
